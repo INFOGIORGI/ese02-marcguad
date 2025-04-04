@@ -1,18 +1,21 @@
-## Getting Started
+# Esercizio 2
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## R01
 
-## Folder Structure
+Definisci una classe che permetta di memorizzare i seguenti dati relativi ad uno **Sciatore**: nome, tempo della I manche (intero), tempo della II manche (intero).
 
-The workspace contains two folders by default, where:
+## R02
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Definisci una classe che modelli una **Gara** (definire una collezione che contenga i tempi di tutti gli sciatori che partecipano alla gara.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## R03
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Nella classe **Gara** definisci un metodo che legga i dati relativi alla gara da un file di testo (*manche.txt*).
 
-## Dependency Management
+## R04
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Nella classe **Gara** definisci un metodo che restituisce il nome dello sciatore vincitore (somma dei tempi minore).
+
+## R05
+
+Nella classe **Gara** definisici un metodo che stampi l’ordine di arrivo della gara
